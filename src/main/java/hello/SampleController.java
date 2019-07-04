@@ -77,7 +77,7 @@ public class SampleController {
     /*
      * calculate userMoney and totalPrice Method
      * if userMoney bigger than totalPrice, return positive numbers
-     * else return negative numbers.
+     * else return negative numbers. ok
     */
 
     private static int calcUserMoney(int userMoney, int totalPrice) {
